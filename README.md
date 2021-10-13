@@ -9,20 +9,20 @@ Images, captured by a camera, play a critical role in training Deep Neural Netwo
 ## Requirements
 We need torch >= 1.4, torchattacks = 2.12.2, colour-demosaicing = 0.1.6
 
-To install requirements:
-
-```setup
-pip install [Package]
-```
-
 ## Create an environment
-
+creat a virtual environment:
 ```
 conda create -n Moire_Attack_env python=3.7
 source activate Moire_Attack_env
 ```
 
+To install requirements:
+```
+pip install [Package = version]
+```
+
 ## Quick Start
+Start with an example with: 
 
 ```
 python Moire_Attack.py
