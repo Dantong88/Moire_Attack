@@ -36,7 +36,7 @@ python Moire_Attack.py
 
 
 ## Acknowledgments
-* We referred [RjDuan's code style] (https://github.com/RjDuan/AdvDrop)
+* We referred [Duan's code style] (https://github.com/RjDuan/AdvDrop)
 * We referred [Harry's code style] (https://github.com/Harry24k/adversarial-attacks-pytorch)
 
 ## Citation
