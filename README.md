@@ -22,7 +22,7 @@ pip install [Package = version]
 ```
 
 ## Demo
-#### Download the dataset [[Link](https://github.com/RjDuan/AdvDrop)] and add it to 'Moire_Attack/data/
+#### Download the dataset [[Link](https://github.com/RjDuan/AdvDrop)] and add it to 'Moire_Attack/data/'
 #### Quick Start
 
 Start with an example with: 
@@ -30,7 +30,7 @@ Start with an example with:
 ```
 python Moire_Attack.py
 ```
-* Detailed parameter can be adjuted in Moire_Attack.py
+* Detailed parameter can be adjusted in Moire_Attack.py
 
 ## Experiment Results
 
