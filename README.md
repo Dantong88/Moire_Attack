@@ -15,7 +15,18 @@ To install requirements:
 pip install [Package]
 ```
 
+## Create an environment
+
+```sh
+conda create -n Moire_Attack_env python=3.7
+source activate Moire_Attack_env
+```
+
 ## Quick Start
+
+```sh
+python infod_sample.py
+```
 
 To train the model(s) in the paper, run this command:
 
