@@ -263,7 +263,7 @@ if __name__ == "__main__":
 
 
 
-    normal_data = image_folder_custom_label(root='./dataset/incepv3_data', transform=transform,
+    normal_data = image_folder_custom_label(root='./data/dataset/incepv3_data', transform=transform,
                                             idx2label=class2label)
     normal_loader = torch.utils.data.DataLoader(normal_data, batch_size=batch_size, shuffle=False)
     normal_iter = iter(normal_loader)
