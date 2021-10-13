@@ -21,15 +21,22 @@ To install requirements:
 pip install [Package = version]
 ```
 
-## Quick Start
+## Demo
+#### Download the dataset [[Link](https://github.com/RjDuan/AdvDrop)]
+#### Quick Start
+
 Start with an example with: 
 
 ```
 python Moire_Attack.py
 ```
+* Detailed parameter can be adjuted in Moire_Attack.py
+
+## 
+
 
 ## Acknowledgments
-* We referred [RjDuan's code' style](https://github.com/RjDuan/AdvDrop)
+* We referred [RjDuan's code style] (https://github.com/RjDuan/AdvDrop)
 * We referred [Harry's code style] (https://github.com/Harry24k/adversarial-attacks-pytorch)
 
 ## Citation
