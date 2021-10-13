@@ -23,11 +23,6 @@ conda create -n Moire_Attack_env python=3.7
 source activate Moire_Attack_env
 ```
 
-To install requirements:
-```
-pip install [Package = version]
-```
-
 ## Demo
 #### Download the dataset [[Link](https://drive.google.com/file/d/1J8o1SuUEd89-NFtl3Tcga8Hy7UucrSQE/view?usp=sharing)] and add it to 'Moire_Attack/data/'
 #### Quick Start
