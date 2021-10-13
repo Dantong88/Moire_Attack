@@ -22,7 +22,7 @@ pip install [Package = version]
 ```
 
 ## Demo
-#### Download the dataset [[Link](https://github.com/RjDuan/AdvDrop)]
+#### Download the dataset [[Link](https://github.com/RjDuan/AdvDrop)] and add it to 'Moire_Attack/data/
 #### Quick Start
 
 Start with an example with: 
@@ -32,7 +32,9 @@ python Moire_Attack.py
 ```
 * Detailed parameter can be adjuted in Moire_Attack.py
 
-## 
+## Experiment Results
+
+#### Here is an example of the generated adversarial example using Moire_Attack
 
 
 ## Acknowledgments
