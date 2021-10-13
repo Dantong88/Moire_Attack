@@ -37,11 +37,11 @@ python Moire_Attack.py
 #### Here is an example of the generated adversarial example using Moire_Attack:
 * Adversarial examples of untargeted MA:
 
-<img src="Images/Untargeted MA.png" alt="image" style="zoom:20%;" />
+<img src="Images/Untargeted MA.png" alt="image" style="zoom:20%;"/>
 
 * Adversarial examples of targeted MA:
 
-<img src="Images/Targeted MA.png" alt="image" style="zoom:20%;" />
+<img src="Images/Targeted MA.png" alt="image" style="zoom:20%;"/>
 
 
 ## Acknowledgments
