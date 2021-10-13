@@ -49,6 +49,8 @@ python Moire_Attack.py
 * We referred [Harry's code style] (https://github.com/Harry24k/adversarial-attacks-pytorch)
 
 ## Citation
+Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follow.
+
 ```
 
 ```
