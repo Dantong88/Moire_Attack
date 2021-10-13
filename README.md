@@ -1,4 +1,4 @@
-# Moiré Attack (MA): A New Potential Risk of Screen Photos [Neurlps 2021]
+# Moiré Attack (MA): A New Potential Risk of Screen Photos [NeurIPS 2021]
 
 This repository is the official implementation of [Moiré Attack (MA): A New Potential Risk of Screen Photos](https://arxiv.org/abs/2030.12345). 
 
