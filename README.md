@@ -53,5 +53,10 @@ python Moire_Attack.py
 Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follow.
 
 ```
-
+@article{niu2021moir,
+  title={Moir$\backslash$'e Attack (MA): A New Potential Risk of Screen Photos},
+  author={Niu, Dantong and Guo, Ruohao and Wang, Yisen},
+  journal={arXiv preprint arXiv:2110.10444},
+  year={2021}
+}
 ```
